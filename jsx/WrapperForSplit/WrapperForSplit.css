@@ -1,0 +1,9 @@
+.weather_halfs {
+    display: flex;
+  }
+
+  .info {
+    height: 388px;
+    width: 298px;
+    border-right: 1px solid #000000;
+}

@@ -1,0 +1,13 @@
+body {
+  font-family: 'Iosevka Slab';
+  background: url('https://oboitd.ru/images/goods/big/20200123101813_Belye_oblaka_na_golubom_nebe_7-037.jpg');
+}
+
+.wrapper {
+  width: 601px;
+  height: 435px;
+  border: 1px solid #000000;
+  margin: 200px auto;
+  background-color:rgba(129, 170, 190, 0.4);
+  border-radius: 8%;
+}
